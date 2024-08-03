@@ -17,7 +17,7 @@
         "OnlineProfileName": "Asszura.vapeprofile.txt"
     },
     "SkidVape": {
-        "ProfileName"; "SkidVape",
+        "ProfileName": "SkidVape",
         "OnlineProfileName": "SkidVape.vapeprofile.txt"
     }
 }
